@@ -1,0 +1,21 @@
+# Java
+*.class
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# VS Code
+.vscode/
+
+# Build folders
+target/
+out/
+
+# Node
+node_modules/
+dist/
