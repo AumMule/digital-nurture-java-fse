@@ -19,3 +19,6 @@ out/
 # Node
 node_modules/
 dist/
+
+# Personal Learning Guide (ignored to avoid push)
+LEARNING_GUIDE.md
